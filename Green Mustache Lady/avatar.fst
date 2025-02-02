@@ -2,8 +2,8 @@ exporterVersion = 2023.08
 name     = Green Mustache Lady
 type     = body+head
 scale    = 1
-filename = https://github.com/Trixxle/overteHosting/raw/refs/heads/main/Green%20Mustache%20Lady/ClustertoVRC.fbx
-texdir   = https://github.com/Trixxle/overteHosting/blob/main/Green%20Mustache%20Lady/textures/Atlas_00002.png
+filename = https://files.catbox.moe/1r15b7.fbx
+texdir   = https://www.seamen.love/Jorn/textures/
 jointMap = LeftUpLeg = Left leg
 jointMap = LeftLeg = Left knee
 jointMap = LeftFoot = Left ankle
